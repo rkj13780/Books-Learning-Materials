@@ -1,0 +1,2 @@
+https://github.com/yanshengjia/ml-road/blob/master/resources/Hands%20On%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow.pdf
+https://github.com/yanshengjia/ml-road/tree/master/resources
